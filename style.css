@@ -8,9 +8,9 @@
 }
  #header {
      width: 100%;
-     background-color: black;
+     background-color: weight;
      padding: 10px;
-     color: white;
+     color: black;
 }
  #header:after {
      content: ".";
@@ -22,7 +22,7 @@
  #header section {
      float: left;
      width: 20%;
-     font-size: 18px;
+     font-size: 100px;
      font-weight: bold;
 }
  #header nav {
@@ -37,7 +37,7 @@
      min-width: 10%;
      padding: 4px;
      margin-left: 10px;
-     background-color: #fdf1e5;
+     background-color: weight;
      text-align: center;
      color: black;
 }
@@ -58,7 +58,7 @@
  #display-ads{
      padding: 20px;
      margin: 20px;
-     background: #e5e5e5;
+     background: white;
 }
  #main-article {
      float: left;
