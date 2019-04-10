@@ -78,3 +78,9 @@
      padding: 10px;
      color: white;
 }
+#header2 {
+     width: 100%
+     background-color:red;
+     padding: 10px;
+     color:black;
+}
